@@ -8,6 +8,8 @@ const usersSchema = new schema({
         type: String,
         minlength: 2,
         required: false
+
+    
     },
     lastname: {
         type: String,
