@@ -5,11 +5,13 @@ const db = require('./DB/mongoose');
 require('dotenv').config();
 const logger=require('./logger/logs');
 const user=require('./Router/user');
+const allergens=require('./Router/allergens');
 const port=process.env.PORT;
 app.use(express.json());
 
 app.use(express.static('static'))
 app.use('/api/users',user );
+app.use('/api/allergens',allergens );
 db.connectFunction();
 app.use((err,req,res,next)=>{
     logger.error(err.message);

@@ -7,6 +7,7 @@
     "nodemon": "^2.0.16",
     "validate": "^5.2.0",
     "validator": "^13.7.0",
-    "winston": "^3.7.2"
+    "winston": "^3.7.2",
+    "winston-mongodb": "^5.0.7"
   }
 }

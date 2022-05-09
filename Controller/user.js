@@ -5,15 +5,15 @@ const bcrypt=require('bcrypt');
 module.exports.signUp = async function (req, res, next) {
     try {
         const { firstname, lastname, language, email,password } = req.body;
-       bcrypt.hash(password,10,(error,hash)=>{
-           if(error){
-               //res.status(500).json({error})
-               next(error)
-           }
-            const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:hash});
+    //    bcrypt.hashSync(password,10,(error,hash)=>{
+    //        if(error){
+    //            //res.status(500).json({error})
+    //            next(error)
+    //        }  })
+            const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:password});
         const insertUser = await data.save();
         await res.send(insertUser);
-       })
+     
        
     }
     catch (e) {
@@ -25,15 +25,16 @@ module.exports.login= async function (req, res, next) {
         const userName = req.params.userName;
         const password = req.params.password;
         const getUser = await userModel.findOne({ email: userName});
-        if (getUser){
-            bcrypt.compare(password,getUser.password,(error,result)=>{
-               if(error) {
-                next(error);   
-               }
-               res.send(getUser);
-               result
-            })
-            res.status(401).send('something whent worng.....')
+        if (getUser&&getUser.password===password){
+            res.send(getUser);
+            // bcrypt.compare(password,getUser.password,(error,result)=>{
+            //    if(error) {
+            //     next(error);   
+            //    }
+            //    res.send(getUser);
+            //    result
+            // })
+            // res.status(401).send('something went worng.....')
         }
             
         else
