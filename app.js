@@ -6,13 +6,21 @@ require('dotenv').config();
 const logger=require('./logger/logs');
 const user=require('./Router/user');
 const allergens=require('./Router/allergens');
+const nutritionalFact=require('./Router/nutritionalFact');
 const port=process.env.PORT;
+const cors=require('cors')
 app.use(express.json());
 
+// app.use((req,res,next)=>{
+//    res.header('Access-Control-Allow-Origion')
+// })
+app.use(cors());
 app.use(express.static('static'))
 app.use('/api/users',user );
 app.use('/api/allergens',allergens );
+app.use('/api/nutritionalfact',nutritionalFact );
 db.connectFunction();
+
 app.use((err,req,res,next)=>{
     logger.error(err.message);
     res.status(500).send('Error Happend');

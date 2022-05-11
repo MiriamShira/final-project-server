@@ -4,10 +4,10 @@ const schema = mongoose.Schema;
 
 
 const allergensSchema = new schema({
-    milk : {
-        type: Boolean,
+    description : {
+        type: String,
     },
-    nuts : {
+    isCommon : {
         type: Boolean,
 
     

@@ -9,7 +9,7 @@ const usersSchema = new schema({
         minlength: 2,
         required: false
 
-    
+
     },
     lastname: {
         type: String,
@@ -24,7 +24,7 @@ const usersSchema = new schema({
     email: {
         type: String,
         required: false,
-        validate: [isEmail, "Please write email again"],
+        //validate: [isEmail, "Please write email again"],
         unique: true
 
     },
@@ -33,10 +33,26 @@ const usersSchema = new schema({
         type: String,
         minlength: 2,
         required: false
-    }
+    },
+    alerts: {
+        allergens: [{
+            description: {
+                type: String
+            }
+        }],
+     nutritionalFacts: [{
+            description: {
+                type: String
+            },
+            amount: {
+                type: Number
+            }
+        }]
 
-},
-    { timestamps: true, 'toJSON': { virtuals: true } });
+
+    }}
+
+  ,{ timestamps: true, 'toJSON': { virtuals: true } });
 
 
 

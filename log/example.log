@@ -6,3 +6,72 @@ infoMay-09-2022 20:25:02:App listening on port 4020
 infoMay-09-2022 20:26:05:App listening on port 4020
 errorMay-09-2022 20:26:25:Operation `users.insertOne()` buffering timed out after 10000ms
 errorMay-09-2022 20:26:25:Operation `users.insertOne()` buffering timed out after 10000ms
+infoMay-10-2022 13:28:44:App listening on port 4020
+infoMay-11-2022 12:45:26:App listening on port 4020
+infoMay-11-2022 13:28:45:App listening on port 3000
+infoMay-11-2022 13:31:39:App listening on port 4012
+infoMay-11-2022 13:33:15:App listening on port 4020
+infoMay-11-2022 14:32:55:App listening on port 4020
+infoMay-11-2022 14:35:01:App listening on port 4020
+infoMay-11-2022 15:15:44:App listening on port 4020
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:51:15:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:51:15:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 17:01:16:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 17:01:16:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 17:50:45:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:50:45:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:50:46:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:50:46:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:52:16:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "sara@gmail.com" }
+errorMay-11-2022 17:52:16:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "sara@gmail.com" }
+errorMay-11-2022 17:55:09:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:55:09:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:57:15:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:57:15:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:59:57:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:59:57:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 18:08:31:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 18:08:31:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+infoMay-11-2022 18:09:47:App listening on port 4020
+errorMay-11-2022 18:10:28:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 18:10:28:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+infoMay-11-2022 19:11:15:App listening on port 4020
+infoMay-11-2022 19:15:59:App listening on port 4020
+infoMay-11-2022 19:16:23:App listening on port 4020
+infoMay-11-2022 19:16:58:App listening on port 4020
+infoMay-11-2022 19:17:17:App listening on port 4020
+infoMay-11-2022 19:18:53:App listening on port 4020
+infoMay-11-2022 19:35:53:App listening on port 4020
+infoMay-11-2022 19:41:25:App listening on port 4020
+infoMay-11-2022 19:41:41:App listening on port 4020
+infoMay-11-2022 19:43:20:App listening on port 4020
+infoMay-11-2022 19:44:01:App listening on port 4020
+infoMay-11-2022 19:45:34:App listening on port 4020
+infoMay-11-2022 19:54:58:App listening on port 4020
+infoMay-11-2022 19:55:58:App listening on port 4020
+infoMay-11-2022 19:56:11:App listening on port 4020
+infoMay-11-2022 19:58:38:App listening on port 4020
+infoMay-11-2022 19:59:14:App listening on port 4020
+infoMay-11-2022 20:00:05:App listening on port 4020
+infoMay-11-2022 20:00:42:App listening on port 4020
+infoMay-11-2022 20:00:55:App listening on port 4020
+infoMay-11-2022 20:01:20:App listening on port 4020
+infoMay-11-2022 20:03:36:App listening on port 4020
+infoMay-11-2022 20:03:54:App listening on port 4020
+infoMay-11-2022 20:06:07:App listening on port 4020
+infoMay-11-2022 20:06:34:App listening on port 4020
+infoMay-11-2022 20:08:01:App listening on port 4020
+infoMay-11-2022 20:14:07:App listening on port 4020
+errorMay-11-2022 20:14:12:NutritionalFactModel.findAll is not a function
+errorMay-11-2022 20:14:12:NutritionalFactModel.findAll is not a function
+infoMay-11-2022 20:14:43:App listening on port 4020
+errorMay-11-2022 20:14:48:res.send is not a function
+errorMay-11-2022 20:14:48:res.send is not a function
+infoMay-11-2022 20:15:59:App listening on port 4020
+infoMay-11-2022 20:16:56:App listening on port 4020
+infoMay-11-2022 20:17:08:App listening on port 4020
+infoMay-11-2022 20:19:10:App listening on port 4020

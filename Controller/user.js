@@ -1,4 +1,4 @@
-const userModel = require('../Model/user');
+const userModel = require('../Model/User');
 //const { ObjectId } = require('mongodb');
 // const logger = require('../log/logger');
 const bcrypt=require('bcrypt');
