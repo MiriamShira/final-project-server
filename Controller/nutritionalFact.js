@@ -10,3 +10,17 @@ catch(err){
     next(err);
 }
 }
+
+module.exports.addNutritionalFact=async function(req,res,next){
+    try{
+        
+        const NutritionalFactiption= NutritionalFactModel({description:req.body.description});
+      const inserted=  await NutritionalFactiption.save();
+      res.send(inserted)
+    
+       
+    }
+    catch(err){
+        next(err);
+    }
+}

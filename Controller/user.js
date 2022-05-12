@@ -10,7 +10,7 @@ module.exports.signUp = async function (req, res, next) {
     //            //res.status(500).json({error})
     //            next(error)
     //        }  })
-            const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:password});
+        const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:password});
         const insertUser = await data.save();
         await res.send(insertUser);
      
