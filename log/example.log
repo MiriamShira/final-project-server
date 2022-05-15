@@ -80,3 +80,17 @@ infoMay-12-2022 16:36:02:App listening on port 4020
 errorMay-12-2022 16:36:36:Parameter "obj" to Document() must be an object, got carbohydrates
 errorMay-12-2022 16:36:36:Parameter "obj" to Document() must be an object, got carbohydrates
 infoMay-12-2022 16:37:46:App listening on port 4020
+infoMay-15-2022 17:47:46:App listening on port 4020
+infoMay-15-2022 18:37:32:App listening on port 4020
+infoMay-15-2022 19:15:28:App listening on port 4020
+errorMay-15-2022 19:19:45:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 19:19:45:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-15-2022 19:23:53:App listening on port 4020
+errorMay-15-2022 20:32:25:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:32:25:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:34:57:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:34:57:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:38:04:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:38:04:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:42:33:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:42:33:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
