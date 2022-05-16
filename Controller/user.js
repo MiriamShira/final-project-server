@@ -4,13 +4,13 @@ const userModel = require('../Model/User');
 const bcrypt=require('bcrypt');
 module.exports.signUp = async function (req, res, next) {
     try {
-        const { firstname, lastname, language, email,password } = req.body;
+        const { firstname, lastname, language, email,password,alerts } = req.body;
+        console.log(alerts);
     //    bcrypt.hashSync(password,10,(error,hash)=>{
     //        if(error){
     //            //res.status(500).json({error})
-    //            next(error)
-    //        }  })
-        const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:password});
+    //            next(error){
+        const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:password,alerts:alerts});
         const insertUser = await data.save();
         await res.send(insertUser);
      

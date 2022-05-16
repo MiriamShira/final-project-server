@@ -94,3 +94,53 @@ errorMay-15-2022 20:38:04:Users validation failed: lastname: Path `lastname` (``
 errorMay-15-2022 20:38:04:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
 errorMay-15-2022 20:42:33:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
 errorMay-15-2022 20:42:33:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-16-2022 11:54:39:App listening on port 4020
+infoMay-16-2022 12:43:10:App listening on port 4020
+errorMay-16-2022 13:18:12:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "s3@gmail.com" }
+errorMay-16-2022 13:18:12:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "s3@gmail.com" }
+errorMay-16-2022 13:24:34:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:24:34:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:24:48:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:24:48:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:30:51:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 13:30:51:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-16-2022 16:34:24:App listening on port 4020
+errorMay-16-2022 18:11:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:11:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:34:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:34:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:23:18:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:23:18:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:02:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:02:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:29:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:29:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-16-2022 18:28:41:App listening on port 4020
+errorMay-16-2022 18:30:28:Users validation failed: alerts.allergens: Cast to embedded failed for value "Sesame" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:30:28:Users validation failed: alerts.allergens: Cast to embedded failed for value "Sesame" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:38:36:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:38:36:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+infoMay-16-2022 18:46:57:App listening on port 4020
+errorMay-16-2022 18:47:42:alerts is not defined
+errorMay-16-2022 18:47:42:alerts is not defined
+infoMay-16-2022 18:49:35:App listening on port 4020
+infoMay-16-2022 18:53:56:App listening on port 4020
+errorMay-16-2022 18:57:54:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:57:54:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "allergens" because of "ObjectParameterError"
+infoMay-16-2022 19:08:55:App listening on port 4020
+errorMay-16-2022 19:09:17:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+errorMay-16-2022 19:09:17:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+infoMay-16-2022 19:14:47:App listening on port 4020
+errorMay-16-2022 19:14:48:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' }, { description: '', amount: 0 } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+errorMay-16-2022 19:14:48:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' }, { description: '', amount: 0 } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+infoMay-16-2022 19:16:57:App listening on port 4020
+infoMay-16-2022 19:21:37:App listening on port 4020
+errorMay-16-2022 19:22:13:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:22:13:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:23:29:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Sesame', 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:23:29:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Sesame', 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:24:10:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[]" (type Array) at path "description"
+errorMay-16-2022 19:24:10:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[]" (type Array) at path "description"
+infoMay-16-2022 19:36:29:App listening on port 4020

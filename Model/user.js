@@ -2,6 +2,21 @@ const mongoose = require('mongoose');
 const schema = mongoose.Schema;
 const { isEmail } = require('validator');
 
+const alertsSchema = new schema({
+    allergens: [{
+        description: {
+            type: String
+        }
+    }],
+ nutritionalFacts: [{
+        description: {
+            type: String
+        },
+        amount: {
+            type: Number
+        }
+    }]
+})
 
 const usersSchema = new schema({
     firstname: {
@@ -35,20 +50,8 @@ const usersSchema = new schema({
         required: false
     },
     alerts: {
-        allergens: [{
-            description: {
-                type: String
-            }
-        }],
-     nutritionalFacts: [{
-            description: {
-                type: String
-            },
-            amount: {
-                type: Number
-            }
-        }]
-
+        
+        type: alertsSchema
 
     }}
 
