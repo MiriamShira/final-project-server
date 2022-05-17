@@ -13,7 +13,7 @@ const alertsSchema = new schema({
             type: String
         },
         amount: {
-            type: Number
+            type:String
         }
     }]
 })

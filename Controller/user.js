@@ -50,13 +50,14 @@ module.exports.updateDetails = async function (req, res, next) {
       
 
             var user = req.body;
-            const {firstname, lastname, language,password} = user;
+            const {firstname, lastname, language,password,alerts} = user;
             const userUpdated = await userModel.findOneAndUpdate({ email: req.params.userName }, {
                 $set: {
                     firstname: firstname,
                     lastname:lastname,                    
                     language:language,
-                    password: password
+                    password: password,
+                    alerts:alerts
                 }
             });
 
