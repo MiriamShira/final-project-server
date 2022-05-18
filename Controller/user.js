@@ -2,6 +2,7 @@ const userModel = require('../Model/User');
 //const { ObjectId } = require('mongodb');
 // const logger = require('../log/logger');
 const bcrypt=require('bcrypt');
+
 module.exports.signUp = async function (req, res, next) {
     try {
         const { firstname, lastname, language, email,password,alerts } = req.body;
@@ -11,7 +12,9 @@ module.exports.signUp = async function (req, res, next) {
     //            //res.status(500).json({error})
     //            next(error){
         const data = new userModel({firstname:firstname, lastname:lastname, language:language, email:email,password:password,alerts:alerts});
-        const insertUser = await data.save();
+        const insertUser = await data.save()
+                                    
+                         
         await res.send(insertUser);
      
        
@@ -60,8 +63,8 @@ module.exports.updateDetails = async function (req, res, next) {
                     alerts:alerts
                 }
             });
-
-             res.send(userUpdated);
+console.log(userUpdated);
+            await res.send(userUpdated);
       
     }
     catch (err) {

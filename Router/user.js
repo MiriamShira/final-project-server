@@ -1,7 +1,7 @@
 const userController = require('../Controller/user');
 const express = require('Express');
 const router = express.Router();
-
+debugger;
 router.get('/:userName/:password/', userController.login);
 // router.get('/:id', userController.getTheLastOrdersByUserId);
  router.post('/', userController.signUp);
