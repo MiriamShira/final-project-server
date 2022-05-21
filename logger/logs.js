@@ -8,8 +8,8 @@ const logConfiguration = {
         }),
         new winston.transports.MongoDB({
             level: 'info',
-            db:'mongodb://srv1:27017/324283258Final',
-            //db: 'mongodb://localhost:27017/324283258Final',
+            //db:'mongodb://srv1:27017/324283258Final',
+            db: 'mongodb://localhost:27017/324283258Final',
             options: {
                 useUnifieldTopology: true
             },
