@@ -4,7 +4,10 @@ const schema = mongoose.Schema;
 
 const nfSchema=new schema({
     amount_desc:{String},
-        amount:{double},
+        amount:{
+            Number
+
+        },
 })
 
 const productSchema = new schema({
@@ -23,7 +26,7 @@ const productSchema = new schema({
     type:String
 },
 amount:Number,
-measurment,
+measurment:String,
   nf:[
     {nf_calories:{
         type:nfSchema,

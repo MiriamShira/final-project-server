@@ -1,5 +1,5 @@
 const productsModel = require('../Model/Product');
-const productBL=
+
 
 module.exports.getAllProducts = async function (req, res, next) {
     try {
