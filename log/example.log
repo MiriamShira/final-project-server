@@ -164,3 +164,68 @@ infoMay-22-2022 01:01:25:App listening on port 4020
 infoMay-22-2022 01:07:41:App listening on port 4020
 infoMay-22-2022 01:07:56:App listening on port 4020
 infoMay-22-2022 01:09:08:App listening on port 4020
+infoMay-22-2022 13:58:03:App listening on port 4020
+infoMay-22-2022 13:59:16:App listening on port 4020
+infoMay-22-2022 14:01:59:App listening on port 4020
+infoMay-22-2022 14:05:30:App listening on port 4020
+infoMay-22-2022 14:06:15:App listening on port 4020
+infoMay-22-2022 14:27:53:App listening on port 4020
+infoMay-22-2022 14:40:17:App listening on port 4020
+infoMay-22-2022 14:49:45:App listening on port 4020
+infoMay-22-2022 14:52:40:App listening on port 4020
+infoMay-22-2022 14:54:42:App listening on port 4020
+infoMay-22-2022 14:59:11:App listening on port 4020
+infoMay-22-2022 15:02:24:App listening on port 4020
+infoMay-22-2022 15:02:48:App listening on port 4020
+infoMay-22-2022 15:03:43:App listening on port 4020
+infoMay-22-2022 15:04:15:App listening on port 4020
+infoMay-22-2022 15:05:20:App listening on port 4020
+infoMay-22-2022 15:13:04:App listening on port 4020
+infoMay-22-2022 15:19:51:App listening on port 4020
+infoMay-22-2022 15:27:37:App listening on port 4020
+infoMay-22-2022 15:29:30:App listening on port 4020
+infoMay-22-2022 15:29:48:App listening on port 4020
+infoMay-22-2022 15:34:31:App listening on port 4020
+infoMay-22-2022 15:52:35:App listening on port 4020
+errorMay-22-2022 16:07:01:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-22-2022 16:07:01:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+infoMay-22-2022 16:46:58:App listening on port 4020
+infoMay-22-2022 16:47:23:App listening on port 4020
+infoMay-22-2022 18:19:57:App listening on port 4020
+infoMay-22-2022 18:22:46:App listening on port 4020
+infoMay-22-2022 18:25:23:App listening on port 4020
+infoMay-22-2022 18:26:22:App listening on port 4020
+infoMay-22-2022 19:18:27:App listening on port 4020
+infoMay-22-2022 19:19:37:App listening on port 4020
+infoMay-22-2022 19:34:29:App listening on port 4020
+infoMay-22-2022 19:35:15:App listening on port 4020
+infoMay-22-2022 19:35:53:App listening on port 4020
+infoMay-22-2022 19:37:50:App listening on port 4020
+errorMay-22-2022 19:37:55:first is not defined
+errorMay-22-2022 19:37:55:first is not defined
+infoMay-22-2022 19:38:32:App listening on port 4020
+errorMay-22-2022 19:39:50:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 19:39:50:Cannot read properties of undefined (reading 'allergens')
+infoMay-22-2022 19:40:17:App listening on port 4020
+errorMay-22-2022 19:42:42:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 19:42:42:Cannot read properties of undefined (reading 'allergens')
+infoMay-22-2022 19:43:51:App listening on port 4020
+errorMay-22-2022 19:47:32:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 19:47:32:Cannot read properties of undefined (reading 'allergens')
+infoMay-22-2022 19:49:40:App listening on port 4020
+errorMay-22-2022 19:51:01:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 19:51:01:Cannot read properties of undefined (reading 'allergens')
+infoMay-22-2022 19:55:49:App listening on port 4020
+infoMay-22-2022 19:56:42:App listening on port 4020
+infoMay-22-2022 19:59:59:App listening on port 4020
+infoMay-22-2022 20:00:19:App listening on port 4020
+infoMay-22-2022 20:04:20:App listening on port 4020
+errorMay-22-2022 20:05:17:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 20:05:17:Cannot read properties of undefined (reading 'allergens')
+infoMay-22-2022 20:06:17:App listening on port 4020
+infoMay-22-2022 20:06:52:App listening on port 4020
+errorMay-22-2022 20:07:10:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 20:07:10:Cannot read properties of undefined (reading 'allergens')
+infoMay-22-2022 20:07:51:App listening on port 4020
+errorMay-22-2022 20:08:19:Cannot read properties of undefined (reading 'allergens')
+errorMay-22-2022 20:08:19:Cannot read properties of undefined (reading 'allergens')
