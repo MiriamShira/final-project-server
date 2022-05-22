@@ -156,55 +156,11 @@ errorMay-17-2022 14:41:56:E11000 duplicate key error collection: 324283258Final.
 errorMay-17-2022 14:41:56:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "y@gmail.com" }
 infoMay-17-2022 15:09:17:App listening on port 4020
 infoMay-17-2022 15:10:18:App listening on port 4020
-errorMay-17-2022 17:07:33:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "ss@hdd.ykt" }
-errorMay-17-2022 17:07:33:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "ss@hdd.ykt" }
-errorMay-17-2022 17:08:04:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "ss@hdd.ykt" }
-errorMay-17-2022 17:08:04:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "ss@hdd.ykt" }
-infoMay-17-2022 17:28:04:App listening on port 4020
-infoMay-17-2022 17:30:48:App listening on port 4020
-infoMay-17-2022 17:31:24:App listening on port 4020
-infoMay-17-2022 17:34:40:App listening on port 4020
-infoMay-17-2022 17:37:11:App listening on port 4020
-errorMay-17-2022 17:55:06:Users validation failed: lastname: Path `lastname` (`s`) is shorter than the minimum allowed length (2).
-errorMay-17-2022 17:55:06:Users validation failed: lastname: Path `lastname` (`s`) is shorter than the minimum allowed length (2).
-infoMay-17-2022 18:02:36:App listening on port 4020
-infoMay-17-2022 18:07:07:App listening on port 4020
-infoMay-17-2022 18:08:38:App listening on port 4020
-infoMay-17-2022 18:13:20:App listening on port 4020
-infoMay-17-2022 18:13:58:App listening on port 4020
-infoMay-17-2022 18:17:24:App listening on port 4020
-infoMay-17-2022 18:19:21:App listening on port 4020
-infoMay-17-2022 18:23:46:App listening on port 4020
-infoMay-17-2022 18:24:28:App listening on port 4020
-infoMay-17-2022 18:27:04:App listening on port 4020
-errorMay-17-2022 18:30:52:data.save(...).exec is not a function
-errorMay-17-2022 18:30:52:data.save(...).exec is not a function
-infoMay-17-2022 18:31:20:App listening on port 4020
-errorMay-17-2022 18:31:20:data.save(...).exec is not a function
-errorMay-17-2022 18:31:20:data.save(...).exec is not a function
-infoMay-17-2022 18:31:57:App listening on port 4020
-errorMay-17-2022 18:32:27:data.save(...).exec is not a function
-errorMay-17-2022 18:32:27:data.save(...).exec is not a function
-infoMay-17-2022 18:34:46:App listening on port 4020
-errorMay-17-2022 18:35:23:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "tt@ff.gg" }
-errorMay-17-2022 18:35:23:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "tt@ff.gg" }
-infoMay-17-2022 18:44:08:App listening on port 4020
-infoMay-17-2022 18:47:59:App listening on port 4020
-errorMay-17-2022 18:48:43:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "tt123@ff.gg" }
-errorMay-17-2022 18:48:43:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "tt123@ff.gg" }
-infoMay-17-2022 18:49:33:App listening on port 4020
-infoMay-17-2022 18:51:29:App listening on port 4020
-infoMay-17-2022 18:53:18:App listening on port 4020
-infoMay-17-2022 18:58:56:App listening on port 4020
-infoMay-17-2022 19:44:43:App listening on port 4020
-errorMay-17-2022 19:45:42:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "jhlh@iyi.yy" }
-errorMay-17-2022 19:45:42:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "jhlh@iyi.yy" }
-infoMay-18-2022 10:54:14:App listening on port 4020
-errorMay-18-2022 11:00:11:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
-errorMay-18-2022 11:00:11:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
-infoMay-18-2022 11:54:25:App listening on port 4020
-infoMay-18-2022 11:57:32:App listening on port 4020
-infoMay-18-2022 11:08:48:App listening on port 4020
-infoMay-18-2022 11:44:18:App listening on port 4020
-infoMay-18-2022 12:20:52:App listening on port 4020
-infoMay-18-2022 12:36:33:App listening on port 4020
+infoMay-17-2022 22:47:05:App listening on port 4020
+infoMay-17-2022 22:48:41:App listening on port 4020
+infoMay-17-2022 22:52:23:App listening on port 4020
+infoMay-17-2022 23:06:26:App listening on port 4020
+infoMay-22-2022 01:01:25:App listening on port 4020
+infoMay-22-2022 01:07:41:App listening on port 4020
+infoMay-22-2022 01:07:56:App listening on port 4020
+infoMay-22-2022 01:09:08:App listening on port 4020
