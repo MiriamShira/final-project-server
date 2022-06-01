@@ -4,7 +4,7 @@ const router = express.Router();
 
 router.get('/', allergensController.getAllergens);
 router.get('/more', allergensController.getMoreAllergens);
-//router.post('/', allergensController.addAllergen);
+router.post('/', allergensController.addAllergen);
 
 
 module.exports = router;
