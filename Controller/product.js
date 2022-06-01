@@ -1,9 +1,10 @@
 const productsModel = require('../Model/Product');
-const productBL=
+const productBL=require('../BL/product')
 
 module.exports.getAllProducts = async function (req, res, next) {
     try {
-       const getAllProducts = await productsModel.find();
+       const getAllProducts = await productBL.getAllProducts(req,res,next)
+     
         if (getAllProducts){
             res.send(getAllProducts);
        
@@ -23,6 +24,7 @@ module.exports.addProduct = async function (req, res) {
     const data = new productModel({brand:brand,name:name,description:description,barcode:barcode,amount:amount
         ,measurment:measurment,nf:nf,allergens:allergens,moreInfo:moreInfo});
     const insertproduct = await data.save();
+    res.send(insertproduct)
   
 
 }
