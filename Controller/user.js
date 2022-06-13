@@ -84,9 +84,15 @@ module.exports.getAlertsForRegisteredUser = async function (req, res, next) {
             const alerts = getUser.alerts;
             console.log(alerts)
             const productInfo = await productController.getProductbybarcode(req, res, next);
+            console.log(productInfo);
+            if(productInfo){
             const Result = await productService.check(alerts, productInfo);
-
-          await res.send(Result);
+            await res.send(Result);
+        }
+else {
+    console.log('no product info');
+}
+          await res.send(Json('no product info'));
 
         }
 

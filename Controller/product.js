@@ -1,5 +1,6 @@
 const productsModel = require('../Model/Product');
-
+const userController=require ('./user');
+const productService=require("./services/product")
 module.exports.getAllProducts = async function (req, res, next) {
     try {
         const getAllProducts = await productsModel.find();
@@ -19,11 +20,14 @@ module.exports.getProductbybarcode = async function (req, res, next) {
     try {
    debugger
         const barcode = req.params.barcode
-        console.log(barcode)
+   
+        console.log('barcode',barcode)
+  
         const getProduct = await productsModel.findOne({ barcode: barcode });
+    
         if (getProduct) {
-            debugger
-            console.log(getProduct)
+          
+            console.log('product',getProduct)
             res.send(getProduct);
 
         } else {

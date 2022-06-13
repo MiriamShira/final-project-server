@@ -3,7 +3,7 @@ const express = require('Express');
 const router = express.Router();
 
 router.get('', productController.getAllProducts);
-router.get('/:barcode', productController.getProductbybarcode);
+router.get('/:barcode/:userName/:password', productController.getProductbybarcode);
 
 router.post('/', productController.addProduct);
 
