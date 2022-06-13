@@ -1,0 +1,179 @@
+infoMay-09-2022 20:17:32:App listening on port 4020
+infoMay-09-2022 20:19:03:App listening on port 4020
+infoMay-09-2022 20:19:14:App listening on port 4020
+infoMay-09-2022 20:23:25:App listening on port 4020
+infoMay-09-2022 20:25:02:App listening on port 4020
+infoMay-09-2022 20:26:05:App listening on port 4020
+errorMay-09-2022 20:26:25:Operation `users.insertOne()` buffering timed out after 10000ms
+errorMay-09-2022 20:26:25:Operation `users.insertOne()` buffering timed out after 10000ms
+infoMay-10-2022 13:28:44:App listening on port 4020
+infoMay-11-2022 12:45:26:App listening on port 4020
+infoMay-11-2022 13:28:45:App listening on port 3000
+infoMay-11-2022 13:31:39:App listening on port 4012
+infoMay-11-2022 13:33:15:App listening on port 4020
+infoMay-11-2022 14:32:55:App listening on port 4020
+infoMay-11-2022 14:35:01:App listening on port 4020
+infoMay-11-2022 15:15:44:App listening on port 4020
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:37:43:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:51:15:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 16:51:15:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 17:01:16:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 17:01:16:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., email: Please write email again, password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-11-2022 17:50:45:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:50:45:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:50:46:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:50:46:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shira@gmail.com" }
+errorMay-11-2022 17:52:16:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "sara@gmail.com" }
+errorMay-11-2022 17:52:16:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "sara@gmail.com" }
+errorMay-11-2022 17:55:09:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:55:09:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:57:15:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:57:15:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:59:57:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 17:59:57:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 18:08:31:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 18:08:31:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+infoMay-11-2022 18:09:47:App listening on port 4020
+errorMay-11-2022 18:10:28:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+errorMay-11-2022 18:10:28:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "shifdsgra@gmail.com" }
+infoMay-11-2022 19:11:15:App listening on port 4020
+infoMay-11-2022 19:15:59:App listening on port 4020
+infoMay-11-2022 19:16:23:App listening on port 4020
+infoMay-11-2022 19:16:58:App listening on port 4020
+infoMay-11-2022 19:17:17:App listening on port 4020
+infoMay-11-2022 19:18:53:App listening on port 4020
+infoMay-11-2022 19:35:53:App listening on port 4020
+infoMay-11-2022 19:41:25:App listening on port 4020
+infoMay-11-2022 19:41:41:App listening on port 4020
+infoMay-11-2022 19:43:20:App listening on port 4020
+infoMay-11-2022 19:44:01:App listening on port 4020
+infoMay-11-2022 19:45:34:App listening on port 4020
+infoMay-11-2022 19:54:58:App listening on port 4020
+infoMay-11-2022 19:55:58:App listening on port 4020
+infoMay-11-2022 19:56:11:App listening on port 4020
+infoMay-11-2022 19:58:38:App listening on port 4020
+infoMay-11-2022 19:59:14:App listening on port 4020
+infoMay-11-2022 20:00:05:App listening on port 4020
+infoMay-11-2022 20:00:42:App listening on port 4020
+infoMay-11-2022 20:00:55:App listening on port 4020
+infoMay-11-2022 20:01:20:App listening on port 4020
+infoMay-11-2022 20:03:36:App listening on port 4020
+infoMay-11-2022 20:03:54:App listening on port 4020
+infoMay-11-2022 20:06:07:App listening on port 4020
+infoMay-11-2022 20:06:34:App listening on port 4020
+infoMay-11-2022 20:08:01:App listening on port 4020
+infoMay-11-2022 20:14:07:App listening on port 4020
+errorMay-11-2022 20:14:12:NutritionalFactModel.findAll is not a function
+errorMay-11-2022 20:14:12:NutritionalFactModel.findAll is not a function
+infoMay-11-2022 20:14:43:App listening on port 4020
+errorMay-11-2022 20:14:48:res.send is not a function
+errorMay-11-2022 20:14:48:res.send is not a function
+infoMay-11-2022 20:15:59:App listening on port 4020
+infoMay-11-2022 20:16:56:App listening on port 4020
+infoMay-11-2022 20:17:08:App listening on port 4020
+infoMay-11-2022 20:19:10:App listening on port 4020
+infoMay-12-2022 15:30:58:App listening on port 4020
+infoMay-12-2022 16:36:02:App listening on port 4020
+errorMay-12-2022 16:36:36:Parameter "obj" to Document() must be an object, got carbohydrates
+errorMay-12-2022 16:36:36:Parameter "obj" to Document() must be an object, got carbohydrates
+infoMay-12-2022 16:37:46:App listening on port 4020
+infoMay-15-2022 17:47:46:App listening on port 4020
+infoMay-15-2022 18:37:32:App listening on port 4020
+infoMay-15-2022 19:15:28:App listening on port 4020
+errorMay-15-2022 19:19:45:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 19:19:45:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-15-2022 19:23:53:App listening on port 4020
+errorMay-15-2022 20:32:25:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:32:25:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:34:57:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:34:57:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:38:04:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:38:04:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:42:33:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-15-2022 20:42:33:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-16-2022 11:54:39:App listening on port 4020
+infoMay-16-2022 12:43:10:App listening on port 4020
+errorMay-16-2022 13:18:12:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "s3@gmail.com" }
+errorMay-16-2022 13:18:12:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "s3@gmail.com" }
+errorMay-16-2022 13:24:34:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:24:34:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:24:48:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:24:48:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "a@gmail.com" }
+errorMay-16-2022 13:30:51:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 13:30:51:Users validation failed: lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-16-2022 16:34:24:App listening on port 4020
+errorMay-16-2022 18:11:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:11:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:30:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:34:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:22:34:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:23:18:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:23:18:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:02:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:02:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:29:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+errorMay-16-2022 18:24:29:Users validation failed: firstname: Path `firstname` (``) is shorter than the minimum allowed length (2)., lastname: Path `lastname` (``) is shorter than the minimum allowed length (2)., language: Path `language` (``) is shorter than the minimum allowed length (2)., password: Path `password` (``) is shorter than the minimum allowed length (2).
+infoMay-16-2022 18:28:41:App listening on port 4020
+errorMay-16-2022 18:30:28:Users validation failed: alerts.allergens: Cast to embedded failed for value "Sesame" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:30:28:Users validation failed: alerts.allergens: Cast to embedded failed for value "Sesame" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:38:36:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:38:36:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "alerts.allergens" because of "ObjectParameterError"
+infoMay-16-2022 18:46:57:App listening on port 4020
+errorMay-16-2022 18:47:42:alerts is not defined
+errorMay-16-2022 18:47:42:alerts is not defined
+infoMay-16-2022 18:49:35:App listening on port 4020
+infoMay-16-2022 18:53:56:App listening on port 4020
+errorMay-16-2022 18:57:54:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "allergens" because of "ObjectParameterError"
+errorMay-16-2022 18:57:54:Users validation failed: alerts.allergens: Cast to embedded failed for value "Milk" (type string) at path "allergens" because of "ObjectParameterError"
+infoMay-16-2022 19:08:55:App listening on port 4020
+errorMay-16-2022 19:09:17:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+errorMay-16-2022 19:09:17:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+infoMay-16-2022 19:14:47:App listening on port 4020
+errorMay-16-2022 19:14:48:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' }, { description: '', amount: 0 } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+errorMay-16-2022 19:14:48:Users validation failed: alerts: Cast to Embedded failed for value "[ { description: 'Milk' }, { description: '', amount: 0 } ]" (type Array) at path "alerts" because of "ObjectExpectedError"
+infoMay-16-2022 19:16:57:App listening on port 4020
+infoMay-16-2022 19:21:37:App listening on port 4020
+errorMay-16-2022 19:22:13:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:22:13:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:23:29:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Sesame', 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:23:29:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[ 'Sesame', 'Milk' ]" (type Array) at path "description"
+errorMay-16-2022 19:24:10:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[]" (type Array) at path "description"
+errorMay-16-2022 19:24:10:Users validation failed: alerts.allergens.0.description: Cast to string failed for value "[]" (type Array) at path "description"
+infoMay-16-2022 19:36:29:App listening on port 4020
+infoMay-17-2022 13:25:09:App listening on port 4020
+infoMay-17-2022 14:21:36:App listening on port 4020
+errorMay-17-2022 14:27:11:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "mmmttt@gmail.com" }
+errorMay-17-2022 14:27:11:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "mmmttt@gmail.com" }
+errorMay-17-2022 14:27:11:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "mmmttt@gmail.com" }
+errorMay-17-2022 14:27:11:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "mmmttt@gmail.com" }
+errorMay-17-2022 14:39:03:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "y@gmail.com" }
+errorMay-17-2022 14:39:03:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "y@gmail.com" }
+errorMay-17-2022 14:41:56:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "y@gmail.com" }
+errorMay-17-2022 14:41:56:E11000 duplicate key error collection: 324283258Final.users index: email_1 dup key: { : "y@gmail.com" }
+infoMay-17-2022 15:09:17:App listening on port 4020
+infoMay-17-2022 15:10:18:App listening on port 4020
+infoMay-17-2022 22:47:05:App listening on port 4020
+infoMay-17-2022 22:48:41:App listening on port 4020
+infoMay-17-2022 22:52:23:App listening on port 4020
+infoMay-17-2022 23:06:26:App listening on port 4020
+infoMay-22-2022 01:01:25:App listening on port 4020
+infoMay-22-2022 01:07:41:App listening on port 4020
+infoMay-22-2022 01:07:56:App listening on port 4020
+infoMay-22-2022 01:09:08:App listening on port 4020
+infoJun-01-2022 14:05:16:App listening on port 4020
+infoJun-01-2022 14:40:38:App listening on port 4020
+infoJun-01-2022 14:49:47:App listening on port 4020
+infoJun-01-2022 14:59:30:App listening on port 4020
+infoJun-01-2022 15:02:45:App listening on port 4020
+infoJun-01-2022 15:03:49:App listening on port 4020
+infoJun-01-2022 15:04:17:App listening on port 4020
+infoJun-01-2022 15:04:33:App listening on port 4020
+infoJun-12-2022 00:29:41:App listening on port 4020
+infoJun-12-2022 16:35:33:App listening on port 4020
+infoJun-12-2022 19:14:58:App listening on port 4020
+infoJun-12-2022 19:17:39:App listening on port 4020
+infoJun-12-2022 19:24:07:App listening on port 4020

@@ -1,6 +1,5 @@
 const productsModel = require('../Model/Product');
 
-
 module.exports.getAllProducts = async function (req, res, next) {
     try {
         const getAllProducts = await productsModel.find();
@@ -18,7 +17,7 @@ module.exports.getAllProducts = async function (req, res, next) {
 
 module.exports.getProductbybarcode = async function (req, res, next) {
     try {
-   
+   debugger
         const barcode = req.params.barcode
         console.log(barcode)
         const getProduct = await productsModel.findOne({ barcode: barcode });
@@ -68,6 +67,3 @@ module.exports.updateProductDetails = async function (req, res) {
      
     res.send(updated);
 }
-
-
-

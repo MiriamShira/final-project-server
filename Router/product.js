@@ -3,10 +3,10 @@ const express = require('Express');
 const router = express.Router();
 
 router.get('', productController.getAllProducts);
- router.get('/:barcode', productController.getProductbybarcode);
+router.get('/:barcode', productController.getProductbybarcode);
 
- router.post('/', productController.addProduct);
+router.post('/', productController.addProduct);
 
- router.put('/:userName', productController.updateProductDetails);
+router.put('/:userName', productController.updateProductDetails);
 
 module.exports = router;
