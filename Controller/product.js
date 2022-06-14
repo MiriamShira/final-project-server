@@ -18,21 +18,24 @@ module.exports.getAllProducts = async function (req, res, next) {
 
 module.exports.getProductbybarcode = async function (req, res, next) {
     try {
-   debugger
+   
         const barcode = req.params.barcode
    
         console.log('barcode',barcode)
   
         const getProduct = await productsModel.findOne({ barcode: barcode });
-    
-        if (getProduct) {
+     return getProduct
+        // if (getProduct) {
           
-            console.log('product',getProduct)
-            res.send(getProduct);
+        //     console.log('product',JSON.stringify(getProduct))   
+        //     ///res.send(JSON.stringify(getProduct));
+         
+         
 
-        } else {
-            res.status(204).json({ Product: "not found" });
-        }
+        // } else {
+        //     //res.status(204).send({ Product: "not found" });
+        //     return 'not found'
+        // }
     }
     catch (e) {
         next(e);

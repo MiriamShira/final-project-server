@@ -205,3 +205,59 @@ errorJun-13-2022 21:01:23:Result is not defined
 errorJun-13-2022 21:01:23:Result is not defined
 infoJun-13-2022 21:01:57:App listening on port 4020
 infoJun-13-2022 21:03:02:App listening on port 4020
+infoJun-14-2022 12:13:09:App listening on port 4020
+infoJun-14-2022 12:20:14:App listening on port 4020
+errorJun-14-2022 12:21:34:Json is not defined
+errorJun-14-2022 12:21:34:Json is not defined
+infoJun-14-2022 12:23:57:App listening on port 4020
+infoJun-14-2022 12:24:10:App listening on port 4020
+errorJun-14-2022 12:24:28:Json is not defined
+errorJun-14-2022 12:24:28:Json is not defined
+infoJun-14-2022 12:26:34:App listening on port 4020
+infoJun-14-2022 12:27:21:App listening on port 4020
+infoJun-14-2022 12:27:36:App listening on port 4020
+errorJun-14-2022 12:28:31:Json is not defined
+errorJun-14-2022 12:28:31:Json is not defined
+infoJun-14-2022 12:30:12:App listening on port 4020
+infoJun-14-2022 12:33:23:App listening on port 4020
+infoJun-14-2022 12:33:47:App listening on port 4020
+infoJun-14-2022 12:40:26:App listening on port 4020
+infoJun-14-2022 12:52:03:App listening on port 4020
+infoJun-14-2022 12:52:15:App listening on port 4020
+infoJun-14-2022 12:53:00:App listening on port 4020
+infoJun-14-2022 12:54:13:App listening on port 4020
+infoJun-14-2022 12:56:20:App listening on port 4020
+infoJun-14-2022 12:56:48:App listening on port 4020
+infoJun-14-2022 12:57:04:App listening on port 4020
+infoJun-14-2022 13:03:50:App listening on port 4020
+infoJun-14-2022 13:07:38:App listening on port 4020
+infoJun-14-2022 13:08:15:App listening on port 4020
+infoJun-14-2022 13:09:01:App listening on port 4020
+infoJun-14-2022 13:09:45:App listening on port 4020
+infoJun-14-2022 13:12:12:App listening on port 4020
+infoJun-14-2022 13:12:41:App listening on port 4020
+infoJun-14-2022 13:24:35:App listening on port 4020
+infoJun-14-2022 13:24:53:App listening on port 4020
+infoJun-14-2022 13:37:26:App listening on port 4020
+infoJun-14-2022 13:37:57:App listening on port 4020
+infoJun-14-2022 13:38:57:App listening on port 4020
+infoJun-14-2022 13:43:27:App listening on port 4020
+infoJun-14-2022 13:44:48:App listening on port 4020
+infoJun-14-2022 13:46:23:App listening on port 4020
+infoJun-14-2022 13:49:16:App listening on port 4020
+infoJun-14-2022 13:50:34:App listening on port 4020
+infoJun-14-2022 13:51:42:App listening on port 4020
+infoJun-14-2022 13:51:53:App listening on port 4020
+infoJun-14-2022 13:52:06:App listening on port 4020
+infoJun-14-2022 14:01:08:App listening on port 4020
+errorJun-14-2022 14:01:18:Invalid status code: { checkForAlergens: [Object], checkForNutritionalFacts: [Array] }
+errorJun-14-2022 14:01:18:Invalid status code: { checkForAlergens: [Object], checkForNutritionalFacts: [Array] }
+infoJun-14-2022 14:02:27:App listening on port 4020
+errorJun-14-2022 14:04:35:Cannot read properties of undefined (reading 'allergens')
+errorJun-14-2022 14:04:35:Cannot read properties of undefined (reading 'allergens')
+infoJun-14-2022 14:06:57:App listening on port 4020
+infoJun-14-2022 14:11:54:App listening on port 4020
+infoJun-14-2022 14:13:19:App listening on port 4020
+infoJun-14-2022 14:13:55:App listening on port 4020
+infoJun-14-2022 14:14:21:App listening on port 4020
+infoJun-14-2022 14:15:32:App listening on port 4020

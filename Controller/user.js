@@ -77,27 +77,27 @@ module.exports.updateDetails = async function (req, res, next) {
 module.exports.getAlertsForRegisteredUser = async function (req, res, next) {
     try {
         console.log("first")
-        debugger
+
         const userName = req.params.userName;
         const getUser = await userModel.findOne({ email: userName });
         if (getUser) {
             const alerts = getUser.alerts;
             console.log(alerts)
             const productInfo = await productController.getProductbybarcode(req, res, next);
-            console.log(productInfo);
-            if(productInfo){
-            const Result = await productService.check(alerts, productInfo);
-            await res.send(Result);
-        }
-else {
-    console.log('no product info');
-}
-          await res.send(Json('no product info'));
+            if (productInfo) {
+
+                console.log(productInfo);
+
+                const Result = productService.check(alerts, productInfo);
+                await res.send({ alert: Result, productInfo: productInfo });
+            }
+            else {
+                res.status(204).send({ product: 'not found' });
+            }
+
 
         }
 
-        else
-            res.status(204).send('something whent worng.....')
     }
     catch (e) {
         next(e);
@@ -106,11 +106,11 @@ else {
 
 module.exports.getAlertsForGuest = async function (req, res, next) {
     try {
-            const alerts ="(get from data for guest....)";
-            const productInfo = await productController.getProductbybarcode(req, res, next);
-            const Result = await productService.check(alerts, productInfo);
+        const alerts = "(get from data for guest....)";
+        const productInfo = await productController.getProductbybarcode(req, res, next);
+        const Result = await productService.check(alerts, productInfo);
 
-            res.send(Result);
+        res.send(Result);
     }
     catch (e) {
         next(e);
